@@ -1,41 +1,13 @@
 [
   {
-    "Author": "Khloe Leclair",
-    "Name": "WTSync (update)",
-    "Punchline": "View a list of all the Wondrous Tails duties shared by your party.",
-    "Description": "WTSync keeps uses an external server to keep track of the duties in your Wondrous Tails book. When you're in a party, and other players in the party are also using WTSync, you can open a UI to see which duties everyone needs at once in one convenient list.",
-    "RepoUrl": "https://github.com/KhloeLeclair/WTSync",
-    "InternalName": "WTSync (update)",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "UI",
-        "wondrous tails"
-    ],
-    "ImageUrls": [
-        "https://raw.githubusercontent.com/KhloeLeclair/WTSync/main/images/image1.png"
-    ],
-    "AssemblyVersion": "2.1.0.0",
-    "TestingAssemblyVersion": "2.1.0.0",
-    "DalamudApiLevel": 14,
-    "TestingDalamudApiLevel": 14,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/helmthorne/DalamudPlugins/raw/refs/heads/main/wtsync.zip",
-    "DownloadLinkUpdate": "https://github.com/helmthorne/DalamudPlugins/raw/refs/heads/main/wtsync.zip",
-    "DownloadLinkTesting": "https://github.com/helmthorne/DalamudPlugins/raw/refs/heads/main/wtsync.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png"
-  },
-  {
     "Author": "helm",
-    "Name": "WTSync helm",
+    "Name": "WTSync2",
     "Punchline": "View a list of all the Wondrous Tails duties shared by your party.",
     "Description": "WTSync keeps uses an external server to keep track of the duties in your Wondrous Tails book. When you're in a party, and other players in the party are also using WTSync, you can open a UI to see which duties everyone needs at once in one convenient list.",
     "RepoUrl": "https://github.com/helmthorne/WTSync",
-    "InternalName": "WTSync helm",
+    "InternalName": "WTSync2",
     "ApplicableVersion": "any",
+    "AssemblyVersion": "0.17.1.0",
     "Tags": [
         "UI",
         "wondrous tails"
